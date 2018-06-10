@@ -7,4 +7,4 @@
 <br>*2.Python版本为3*</br>
 <br>*3.使用的教程为 Python 从入门到实践其中的游戏项目*</br>
 
-[百度]:www.baidu.com
+[百度]:http://www.baidu.com
